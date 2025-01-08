@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LauraLucasZ
-- - 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her
 - 👀 I’m interested in AI and creating solutions that address real-world challenges.
 - 🌱 I’m currently diving deep into advanced algorithms and AI technologies.
 - 💞️ I’m looking to collaborate on AI and software projects that push the boundaries of what's possible.
